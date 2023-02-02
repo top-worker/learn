@@ -221,7 +221,8 @@
     justify-content: center;
     width: 100%;
     margin: 20px 20px 30px 20px;
-    background-color: #d3d2c6;
+    /* background-color: #d3d2c6; */
+    background-color: #96663c;
     text-align: center;
     -webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2); 
     -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2); 
@@ -232,7 +233,8 @@
 .call-me h2 {
     text-align: center;
     font-family: 'Roboto Condensed';
-    color: #96663c;
+    /* color: #96663c; */
+    color: #d3d2c6;
     margin: 20px 0 20px 0;
 }
 
@@ -261,9 +263,14 @@ a :hover {
     text-decoration: none;
     text-align: center;
     font-family: 'Roboto Condensed';
-    color: #96663c;
+    /* color: #96663c; */
+    color: #d3d2c6;
     margin: 20px 40px 20px 0;
     text-align: center;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
 }
 
 
